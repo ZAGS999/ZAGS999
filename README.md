@@ -41,13 +41,13 @@
 ###
 <h2 align="left">Github Stats</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZAGS999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
 
-<div align="centre">
+<div align="left">
   <a href="www.linkedin.com/in/haroon-h-3a70b02b9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
