@@ -17,6 +17,8 @@
 <div>
 <ul>
     <li>Languages:</li>
+    <li>Front-End development:</li>
+    <li>Software Tools:</li>
   </ul>
 </div>
 
