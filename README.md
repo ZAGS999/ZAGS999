@@ -16,7 +16,7 @@
 
 <div>
 <ul>
-    <li>Languages</li>
+    <li>Languages:</li>
   </ul>
 </div>
 
