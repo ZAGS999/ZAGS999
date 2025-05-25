@@ -13,9 +13,11 @@
 <h2 align="left">Skills</h2>
 
 ###
-
-<h5 align="left"><ul>- Languages</ul></h5>
-
+<div>
+<ul>
+    <li>Languages</li>
+  </ul>
+</div>
 ###
 
 <div align="left">
