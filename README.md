@@ -24,8 +24,7 @@
     <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudioide&logoColor=black&style=for-the-badge" height="30" alt="rstudio logo"  />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
 </div>
-
-###
+        
 </div>
     </li>
     <li>Front-End development:</li>
