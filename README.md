@@ -6,10 +6,6 @@
 
 ###
 
-<p align="left">-<br>-<br>-<br>-</p>
-
-###
-
 <h2 align="left">Skills</h2>
 
 ###
