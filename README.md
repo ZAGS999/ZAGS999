@@ -7,6 +7,9 @@
 ###
 <ul>
     <li>A passionate Software Engineer</li>
+    <li>Currently learning  </li>
+    <li>Interested in Programming, Gaming and Photography</li>
+    <li>Reach out on <a href = https://www.linkedin.com/in/haroon-h-3a70b02b9/" target="_blank" ></li>
 </ul>
 
 ###
